@@ -21,6 +21,8 @@
 
 ![React](https://img.shields.io/badge/-Material_UI-73A3E4?style=?style=for-the-badge&logo=materialdesign&logoWidth=20)
 ![React](https://img.shields.io/badge/-Ant_Design-73A3E4?style=?style=for-the-badge&logo=antdesign&logoWidth=20)
+![React](https://img.shields.io/badge/-Storybook-73A3E4?style=?style=for-the-badge&logo=antdesign&logoWidth=20)
+![React](https://img.shields.io/badge/-Solid.js-73A3E4?style=?style=for-the-badge&logo=antdesign&logoWidth=20)
 
 ![React](https://img.shields.io/badge/-React_Router-73A3E4?style=?style=for-the-badge&logo=reactrouter&logoWidth=20)
 ![React](https://img.shields.io/badge/-Redux-73A3E4?style=?style=for-the-badge&logo=redux&logoWidth=20)

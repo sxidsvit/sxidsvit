@@ -24,6 +24,7 @@
 
 ![React](https://img.shields.io/badge/-React_Router-73A3E4?style=?style=for-the-badge&logo=reactrouter&logoWidth=20)
 ![React](https://img.shields.io/badge/-Redux-73A3E4?style=?style=for-the-badge&logo=redux&logoWidth=20)
+![React](https://img.shields.io/badge/-Redux_Saga-73A3E4?style=?style=for-the-badge&logo=redux&logoWidth=20)
 
 ![React](https://img.shields.io/badge/-Node.js-73A3E4?style=?style=for-the-badge&logo=nodedotjs&logoWidth=20)
 ![React](https://img.shields.io/badge/-Express-73A3E4?style=?style=for-the-badge&logo=Express&logoWidth=20)

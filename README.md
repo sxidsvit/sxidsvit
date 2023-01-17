@@ -71,6 +71,7 @@
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-73A3E4?style=?style=for-the-badge&logo=telegram&logoWidth=20)](https://t.me/sxidsvit)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-73A3E4?style=?style=for-the-badge&logo=vk&logoWidth=20)](https://www.linkedin.com/in/sergiy-antonyuk/)
 [![Gmail](https://img.shields.io/badge/-Gmail-73A3E4?style=?style=for-the-badge&logo=gmail&logoWidth=20)](mailto:s.p.antonyuk@gmail.com)
 [![VK](https://img.shields.io/badge/-ВКонтакте-73A3E4?style=?style=for-the-badge&logo=vk&logoWidth=20)](https://vk.com/sergey_antonyuk)
 
